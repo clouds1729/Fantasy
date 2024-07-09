@@ -21,8 +21,8 @@ Response / Output: $y(t)$ is the solution to the differential equation
 
 $\textbf{First Order Linear Equation}$
 $$y'(x)+a(x)y(x)=f(x)$$
-$\begin{aligned}\text{Multiply both sides by the }integrating~factor~I(x):=e^{\int a(x)\mathrm{~d}x},~\text{which satis-}\end{aligned}$
-$\operatorname*{fies}I^{\prime}(x)=a(x)I(x).$ Hence $(Iy)^\prime=Iy^{\prime}+aIy=If$, so integrating gives
+$\text{Multiply both sides by the }integrating~factor~I(x):=e^{\int a(x)\mathrm{~d}x},~\text{which satisfies}$
+$I^{\prime}(x)=a(x)I(x).$ Hence $(Iy)^\prime=Iy^{\prime}+aIy=If$, so integrating gives
 $$y(x)=I(x)^{-1}\int^xI(s)f(s)\:\mathrm{d}s+AI(x)^{-1}.$$
 Example. $y'=x+2y.$ The integrating factor is $I(x)=e^\int-2=e^{-2x}$,
 $$\begin{aligned}(e^{-2x}y)'&=e^{-2x}(y'-2y)=xe^{-2x}\\\Rightarrow\:e^{-2x}y&=\int xe^{-2x}\:\mathrm{d}x=-\frac12xe^{-2x}-\frac14e^{-2x}+c\\\Rightarrow\:y(x)&=ce^{2x}-\frac12(x+\frac12)\end{aligned}$$
