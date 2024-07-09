@@ -5,12 +5,14 @@ General Form: $\frac{dy}{dt} = f(y) \gets$ no t on RHS.
 
 Big deal! If there's no $t$ on the RHS then we can solve these by separating variables. So why are we discussing this. 🤕🤕
 
+--------------------------------------------------------------------------
 ## Motivation
 -  We may not be able to do integration required in the separation of variables to get an explicit solutions.
 - We may not even need to solve the ODE to get certain types of information about it.
 
 *PROBLEM*: Get qualitative information about the solution without actually solving the equations.
 
+--------------------------------------------------------------------------
 ### How do the Direction Fields look like?
 
 - Every horizontal line on the $ty$-plane is an isocline(Why?).
@@ -55,6 +57,7 @@ We have:
 	$ry - w$ has intercepts on the plane above
 
 
+--------------------------------------------------------------------------
 ### Logistic Equation
 
 Describes population behavior $y(t)$ in the book. The basic population equation is:
@@ -87,6 +90,7 @@ Thus, $\frac{a}{b}$ is called the *stable* critical point/solution and $0$ is ca
 
 Note: There are also *semi stable* critical points(the graph on $f(y)  y$ - plane is tangent to the the y axis and above $f(y) = 0$).
 
+--------------------------------------------------------------------------
 ### Logistical Equation With Harvesting
 
 Harvesting: at a constant time rate $$\frac{dy}{dy} = ay - by^{2}-h$$

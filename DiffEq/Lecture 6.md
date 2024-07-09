@@ -47,7 +47,7 @@ $e^{i\cdot 0} = \cos(0) + i\sin(0) = 1$
 
 Note: There's an argument that you can't just multiply the exponents(i.e. $i \cdot 0 = 0$) to simplify the calculation. Although I have no clue as to why?💀
 
-
+--------------------------------------------------------------------------
 ### Advantage of Polar Form
 
 - It's good for multiplication!
@@ -81,6 +81,8 @@ $= \frac{e^{-x}}{2}(-\cos x + \sin x)$
 
 and we're done!
 
+
+--------------------------------------------------------------------------
 
 ### Extraction of Complex Roots
 

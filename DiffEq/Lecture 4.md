@@ -3,6 +3,7 @@ The simplest type is called **scaling**.
 
 $y_1 = \frac{y}{a}$ ,  $x_1 = \frac{x}{b}$ ,  where $a$ and $b$ are constants.
 
+--------------------------------------------------------------------------
 ### Why do this?
 
 - Change Units
@@ -26,6 +27,8 @@ $$M \cdot \frac{dT_1}{dt}= k_1(1 - T_{1}^4)$$ where $k_{1}= k M^4$
 
 	One less constant is called "Lumping" Constants 💀💀💀
 
+
+--------------------------------------------------------------------------
 ### Types of Substitution
 
 - Direct:
@@ -65,6 +68,7 @@ Example 1:
 	$v = \frac{x}{2}+ \frac{c}{x} = \frac{x^{2}+ 2c}{2x}$ 
 	$\implies$ $y = \frac{2x}{x^{2}+c_{1}}$ 
 
+--------------------------------------------------------------------------
 - Inverse Substitutions
 	Homogeneous ODE's
 	Form:  $y' = F\left(\frac{y}{x}\right)$
