@@ -1,4 +1,4 @@
-## Review of Lecture 7
+## Review of Lecture 7 + Extras
 
 $y' + ky = k \cos \omega t$
 
