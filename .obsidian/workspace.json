@@ -1,0 +1,315 @@
+{
+  "main": {
+    "id": "6cabfdeeada939eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "41044fddda3593dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "911210d172ccb116",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d794c9bef21cfbd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HW/HomeWork 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49e095efc02846cd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
+          },
+          {
+            "id": "c21d3c831fe5d091",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Complex Analysis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2e855d9c83c2890",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HW/HomeWork 6.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ac01f458649217b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HW/HomeWork 7.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f6a38dc518b214c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HW/HomeWork 7.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47381630d7040073",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HW/HomeWork 8.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c5e96ec206d8435",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HomeWork 9.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "16797ed324c32861",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HomeWork 11.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9608c43e4e36373f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math 323s.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 10
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "08d24c5d0b892c4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5676e507c6c2e0aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "838d2ed3f71164c2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "df140b1a09c7bc78",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "da3609f9040f6703",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "7730548d0f55df55",
+    "type": "split",
+    "children": [
+      {
+        "id": "02661b38378a56f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfc4a7419269f2a4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Math 323s.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6cbf4694249021ff",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Math 323s.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9d038ba8ce43a436",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "80fa761b298e4e98",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Math 323s.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "9608c43e4e36373f",
+  "lastOpenFiles": [
+    "HomeWork 11.md",
+    "Math 323s.md",
+    "HomeWork 9.md",
+    "HW/HomeWork 8.md",
+    "Pasted image 20240730230141.png",
+    "Pasted image 20240730215441.png",
+    "Pasted image 20240730215303.png",
+    "Pasted image 20240730214618.png",
+    "HW/HomeWork 7.md",
+    "Untitled 2.md",
+    "Pasted image 20240726212743.png",
+    "Pasted image 20240726175825.png",
+    "Pasted image 20240726175517.png",
+    "Pasted image 20240726174608.png",
+    "Pasted image 20240726174210.png",
+    "Pasted image 20240726165117.png",
+    "HW/HomeWork 6.md",
+    "Complex Analysis.md",
+    "Recording 20240722180643.webm",
+    "HW/HomeWork 4 - Copy.md",
+    "HW/HomeWork 3 - Copy.md",
+    "HW/HomeWork 2 - Copy.md",
+    "Untitled 1.md",
+    "HW/HomeWork 4.md",
+    "Untitled.md",
+    "HW/HomeWork 3.md",
+    "ODE/Lecture 6.md",
+    "ODE/Lecture 5.md",
+    "ODE/Lecture 7.md",
+    "HW/HomeWork 2.md",
+    "Bray/Some Section 6 stuff.md",
+    "RESOURCES.md",
+    "ODE/Lecture 8.md",
+    "HW",
+    "ODE/Lecture 4.md",
+    "Bray/Sec 5.4.md",
+    "My.md",
+    "Bray",
+    "ODE",
+    "2024-07-07.md",
+    "2048.cpp",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}
